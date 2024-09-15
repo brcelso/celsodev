@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "testcommit",
   "main": "index.js",
-  "scripts": {
+    "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build script defined'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
